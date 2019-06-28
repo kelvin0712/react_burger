@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_burger/static/css/main.16b74c24.chunk.css",
+    "main.js": "/react_burger/static/js/main.29f954bc.chunk.js",
+    "main.js.map": "/react_burger/static/js/main.29f954bc.chunk.js.map",
+    "runtime~main.js": "/react_burger/static/js/runtime~main.7fa9bd9d.js",
+    "runtime~main.js.map": "/react_burger/static/js/runtime~main.7fa9bd9d.js.map",
+    "static/js/2.6dd420d7.chunk.js": "/react_burger/static/js/2.6dd420d7.chunk.js",
+    "static/js/2.6dd420d7.chunk.js.map": "/react_burger/static/js/2.6dd420d7.chunk.js.map",
+    "static/css/3.904ce67f.chunk.css": "/react_burger/static/css/3.904ce67f.chunk.css",
+    "static/js/3.8990d1d8.chunk.js": "/react_burger/static/js/3.8990d1d8.chunk.js",
+    "static/js/3.8990d1d8.chunk.js.map": "/react_burger/static/js/3.8990d1d8.chunk.js.map",
+    "static/css/4.9040c3d0.chunk.css": "/react_burger/static/css/4.9040c3d0.chunk.css",
+    "static/js/4.9c5b60d4.chunk.js": "/react_burger/static/js/4.9c5b60d4.chunk.js",
+    "static/js/4.9c5b60d4.chunk.js.map": "/react_burger/static/js/4.9c5b60d4.chunk.js.map",
+    "static/css/5.109aeeb8.chunk.css": "/react_burger/static/css/5.109aeeb8.chunk.css",
+    "static/js/5.157c4dd8.chunk.js": "/react_burger/static/js/5.157c4dd8.chunk.js",
+    "static/js/5.157c4dd8.chunk.js.map": "/react_burger/static/js/5.157c4dd8.chunk.js.map",
+    "index.html": "/react_burger/index.html",
+    "precache-manifest.eb422a643fb2ca6e21db4e8b9afeb58e.js": "/react_burger/precache-manifest.eb422a643fb2ca6e21db4e8b9afeb58e.js",
+    "service-worker.js": "/react_burger/service-worker.js",
+    "static/css/3.904ce67f.chunk.css.map": "/react_burger/static/css/3.904ce67f.chunk.css.map",
+    "static/css/4.9040c3d0.chunk.css.map": "/react_burger/static/css/4.9040c3d0.chunk.css.map",
+    "static/css/5.109aeeb8.chunk.css.map": "/react_burger/static/css/5.109aeeb8.chunk.css.map",
+    "static/css/main.16b74c24.chunk.css.map": "/react_burger/static/css/main.16b74c24.chunk.css.map",
+    "static/media/burger-logo.png": "/react_burger/static/media/burger-logo.b8503d26.png"
+  }
+}
